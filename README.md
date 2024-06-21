@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MBHunter88
-- 👀 I’m interested in learning everything about programing, but gamining has been capturing my attention. 
-- 🌱 I’m currently learning basic javascript, HTML and CSS but hoping to learn full PERN stack.
-- 💞️ I’m looking to collaborate on anything that will add to my experience
-- 📫 How to reach me www.linkedin.com/in/michelle-b-b23847222
+- 👀 I’m interested in learning everything about programing. 
+- 🌱 I’m currently learning basic javascript, HTML and CSS but hoping to learn much more.
+- 💞️ I’m looking to collaborate on anything that will add to my experience.
+- 📫 How to reach me www.linkedin.com/in/michelle-bedfordhunter
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I like to draw fantasy vector art featuring black characters. 
 
