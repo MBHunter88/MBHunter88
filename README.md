@@ -1,4 +1,4 @@
-# 👋 Hello there! Welcome to my GitHub profile!  
+# 👋 Hello!  
 
 I’m **MJ (Michelle Bedford Hunter, @MBHunter88)** — a software engineer with a background as a doula, now building inclusive and impactful tech. My journey into engineering is fueled by curiosity, creativity, and a drive to make tools that solve real problems.  
 
