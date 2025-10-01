@@ -1,32 +1,57 @@
-### 👋 Hello there! Welcome to my GitHub profile!
+# 👋 Hello there! Welcome to my GitHub profile!  
 
-I'm **MJ** (@MBHunter88), a passionate learner diving into the world of programming. I have a background as a doula, and now I'm exploring the exciting possibilities in tech. 
+I’m **MJ (Michelle Bedford Hunter, @MBHunter88)** — a software engineer with a background as a doula, now building inclusive and impactful tech. My journey into engineering is fueled by curiosity, creativity, and a drive to make tools that solve real problems.  
 
-### 🌱 What I'm Learning
-- Currently mastering **JavaScript**, **HTML**, and **CSS**.
-- Exploring new concepts in **React** and **Node.js**.
-- Future goals include diving deeper into **full-stack development** and **API integration**.
+---
 
-### 👀 Interests
-- **Learning**: I'm eager to learn everything about programming and web development.
-- **Collaboration**: Open to collaborating on projects that can help me grow and contribute to the community.
+## 🌱 What I’m Learning & Building
+- Expanding skills in **Java, Spring Boot, React, Node.js, and PostgreSQL**  
+- Exploring **DevOps & Site Reliability** with Kubernetes, AWS, and Jenkins  
+- Developing **AI-powered applications**, like my project [Queer Conceptions](https://queerconceptions.up.railway.app/) — a resource and planning tool for LGBTQ+ families  
 
-### 💞️ Let’s Collaborate
-I'm looking to work on projects that challenge me and help me gain hands-on experience. If you have an exciting project in mind or need a collaborator, feel free to reach out!
+---
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/michelle-bedfordhunter)
-  
-### 😄 Pronouns: 
-- she/they
+## 👀 Interests
+- **Learning:** Always diving into new languages, frameworks, and infrastructure tools  
+- **Collaboration:** Open to contributing to open-source projects, especially in health, education, and community building  
+- **Impact:** Building tech that’s inclusive, accessible, and user-centered  
 
-### ⚡ Fun Fact:
-I love drawing **fantasy vector art featuring Black characters**. It’s my creative outlet and a way to blend my passion for storytelling and visual arts.
+---
 
-### 🔗 Check out my Projects:
-- COMING SOON!
+## 💞️ Let’s Collaborate
+Looking for projects that:  
+- Challenge me to grow as an engineer  
+- Incorporate **AI, SRE practices, or full-stack development**  
+- Create real value for communities  
 
-Feel free to explore my repositories, give feedback, or just say hi!
+If you’re working on something meaningful, I’d love to connect!  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/michelle-bedfordhunter)  
+- GitHub (you’re here!)  
+
+😄 **Pronouns:** she/they  
+
+---
+
+## ⚡ Fun Fact
+When I’m not coding, I love drawing **fantasy vector art featuring Black characters** — a creative outlet that blends storytelling, representation, and design.  
+
+---
+
+## 🔗 Featured Projects
+- **Queer Conceptions (Full-Stack PERN + AI)** – AI-powered planning tool for LGBTQ+ families  
+- **Animal Sighting Tracker (PERN)** – Tracks endangered species with PostgreSQL + React  
+- **Book Buddy (PERN)** – Book tracking app with recommendations and user libraries  
+
+💡 More in my repos — feedback always welcome!  
+
+---
+
+✨ *Thanks for stopping by! Feel free to explore, fork, or just say hi.*  
+
 
 <!---
 MBHunter88/MBHunter88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
